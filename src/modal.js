@@ -23,3 +23,6 @@ btnRegistrar.addEventListener('click', () => {
 btnCerrarRegistro.addEventListener('click', () => {
   modalRegistro.close();
 });
+
+
+
